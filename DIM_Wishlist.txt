@@ -1,0 +1,49 @@
+title:Wishlist by Krator
+description:Created by Krator
+
+///////////
+//Kinetik//
+///////////
+
+//Falsche Versprechen | Automatikgewehr: Kannelierter Lauf, Vergrößertes Magazin, Überfluss, Toben
+dimwishlist:item=3143732432&perks=1840239774,2420895100,3643424744,3425386926#notes:GodRoll! 🤩🤩🤩
+dimwishlist:item=-3143732432#notes:Es kann nur eine geben!
+
+//Entschuldige den Staub | Granatwerfer: Schnelle Schüsse, Spitzgranaten, Selbstlader-Halter, Vorpalwaffe
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
+
+//Erbe | Shotgun: Pfeilspitzbremse, Angriffsmagazin, Wiederaufbau, Rekombination
+dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294#notes:GodRoll! 🤩🤩🤩
+dimwishlist:item=4248569242#notes:Es kann nur eine geben!
+
+//Erbfolge | Sniper: Kennelierter Lauf, Taktisches Magazin, Wiederaufbau, Vorpalwaffe
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391#notes:GodRoll! 🤩🤩🤩
+dimwishlist:item=2990047042#notes:Es kann nur eine geben!
+
+//Eyasluna | Revolver: Ruhige Hand EV, Panzerbrechende Geschosse, Schnelltreffer, Grabstein
+dimwishlist:item=235827225&perks=1926090095,1968497646,247725512,124408337
+
+//Langer Schatten | Sniper: ATD Raptor, Taktisches Magazin, Schnappschussvisier, Explosivladung
+dimwishlist:item=3745990145&perks=893526895,106909392,957782887,3038247973
+
+//Praedyths Rache | Sniper: Pfeilspitzbremse, Verbesserte Geschosse, Osmose, Glühwürmchen
+dimwishlist:item=3653573172&perks=839105230,3142289711,1774574192,3824105627
+
+//Ödländer-M5 | Shotgun: Laufummantelung, Angriffsmagazin, Auskommen, Röhrenlauf
+dimwishlist:item=1679868061&perks=1300023272,791862061,1820235745,2360754333
+
+///////////
+//Energie//
+///////////
+
+//Magenknurren: Kannelierter Lauf, Taktisches Magazin, Auskommen, Toben
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926#notes:GodRoll! 🤩🤩🤩
+dimwishlist:item=-821154603#notes:Es kann nur eine geben!
+
+
+
+/////////
+//Power//
+/////////
+
+https://gist.githubusercontent.com/Kra-tor/87f18f82a7aa91aaa4487145b1d5ab01/raw/f38fdc1e1b546bc50cb69596aab8ea6a3c519867/DIM-Wishlist.txt
