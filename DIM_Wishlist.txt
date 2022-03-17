@@ -46,4 +46,3 @@ dimwishlist:item=-821154603#notes:Es kann nur eine geben!
 //Power//
 /////////
 
-https://gist.githubusercontent.com/Kra-tor/87f18f82a7aa91aaa4487145b1d5ab01/raw/f38fdc1e1b546bc50cb69596aab8ea6a3c519867/DIM-Wishlist.txt
