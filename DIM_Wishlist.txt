@@ -2,7 +2,7 @@ title:Wishlist by Krator
 description:Created by Krator
 
 //Kontrolle: Izanagis Bürde | Sniper: Exo
-	dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
+dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
 
 ///////////
 //Kinetik//
