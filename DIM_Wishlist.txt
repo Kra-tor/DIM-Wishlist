@@ -2,13 +2,19 @@ title:Wishlist by Krator
 description:Created by Krator
 
 //Kontrolle: Izanagis Bürde | Sniper: Exo
-dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
+dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467#notes:Geht eh nix anderes :)
 
 ///////////
 //Kinetik//
 ///////////
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
+
+//Pflichtgebunden (Meister) | Automatikgewehr (Spitzenreiter)
+	//Pfeilspitzbremse, Taktisches Magazin, Dreifach, Aller guten Dinge sind Vier
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,1354429876#notes:Kritschaden = Sehr viel Munition und dauerhaftes Schießen
+	//Pfeilspitzbremse, Taktisches Magazin, Perpetuum Mobile, Raserei
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,4104185692
 
 //Entschuldige den Staub | Granatwerfer: Schnelle Schüsse, Spitzgranaten, Selbstlader-Halter, Vorpalwaffe
 dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
@@ -63,6 +69,15 @@ dimwishlist:item=1679868061&perks=1300023272,791862061,1820235745,2360754333
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
 
+//BxR-55-Streiter | Impulsgewehr
+	//Pfeilspitzbremse, Prallgeschosse, Demolierer, Kill Clip
+dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,1015611457#notes:Roll 1
+	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Demolierer, BX-Runden
+dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,454085387#notes:Roll 2
+
+//Feierabend | Pistole: Kleinkaliber, Weitmündiger Magazinschacht, Gefahr erkannt - Gefahr gebannt, Harmonie
+dimwishlist:item=378498222&perks=1482024992,3230963543,4071163871,438098033
+
 //Fuge-55 | Sniper: Kannelierter Lauf, Taktisches Magazin, Selbstlader-Halter, Fokussierte Raserei
 dimwishlist:item=2233545123&perks=1840239774,106909392,3300816228,2896038713
 
@@ -76,6 +91,12 @@ dimwishlist:item=372697604&perks=1482024992,106909392,247725512,1954620775#notes
 dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926#notes:GodRoll! 🤩🤩🤩
 dimwishlist:item=-821154603#notes:Es kann nur eine geben!
 
+//Ogma IG6 | Impulsgewehr: Pfeilspitzbremse, Zusatzmagazin, Adaptive Munition, Störfaktor
+dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,1683379515
+
+//Snorri FG5 | Fusionsgewehr: Pfeilspitzbremse, Verbesserte Batterie, Stats für alle, Erfolgreiches Warmlaufen
+dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,2652708987
+
 //Rotrücken-5SI | Pistole: Kannelierter Lauf, Verbesserte Geschosse, Perpetuum Mobile, Einer für alle
 dimwishlist:item=1687353095&perks=1840239774,3142289711,1428297954,4049631843
 
@@ -86,5 +107,10 @@ dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692
 //Power//
 /////////
 
-//Copy Pasta: dimwishlist:item=&perks=#notes:GodRoll! 🤩🤩🤩
+//Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
 
+//Halbwahrheiten | Schwert: Temperierte Klinge, Swertgefäß eines Schwertmeisters, Unablässige Treffer, Kühne Klinge
+dimwishlist:item=3257091166&perks=938542991,269888150,1749209109,2077819806
+
+//Typhon GW5 | Granatwerfer: Smart-Driftsteuerung, Spitzgranaten, Impulsverstärker, Adrenalin-Junkie
+dimwishlist:item=3568377122&perks=3798852852,3301904089,951095735,11612903
