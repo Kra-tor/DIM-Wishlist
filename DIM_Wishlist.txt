@@ -51,6 +51,9 @@ dimwishlist:item=-2852052802#notes:Es kann nur eine (oder zwei) geben!
 //Langer Schatten | Sniper: ATD Raptor, Taktisches Magazin, Schnappschussvisier, Explosivladung
 dimwishlist:item=3745990145&perks=893526895,106909392,957782887,3038247973
 
+//Lunulata-4B | Bogen: Natürliche Sehne, Gerades Gefieder, Ruihige Hände, Adrenalin-Junkie
+dimwishlist:item=2513965917&perks=1784898267,3827198035,509074078,11612903
+
 //Perses-D | Scout
 	//Kleinkalieber, Taktisches Magazin, Schnelltreffer, Explosivladung
 dimwishlist:item=1019000888&perks=1482024992,106909392,247725512,3038247973#notes:Roll 1
@@ -102,15 +105,24 @@ dimwishlist:item=1687353095&perks=1840239774,3142289711,1428297954,4049631843
 
 //Trichternetz | Maschinenpistole: Kleinkaliber, Taktisches Magazin, Auskommen, Raserei
 dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692
-	
+
+//Xenoclast IV | Shotgun: Laufummantelung, Angriffsmagazin, Grabräuber, Demolierer
+dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,3523296417
+
 /////////
 //Power//
 /////////
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
 
+//Gedenken | Maschinengewehr: Kelinkalieber, Taktisches Magazin, Wiederaufbau, Toben
+dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926
+
 //Halbwahrheiten | Schwert: Temperierte Klinge, Swertgefäß eines Schwertmeisters, Unablässige Treffer, Kühne Klinge
 dimwishlist:item=3257091166&perks=938542991,269888150,1749209109,2077819806
+
+//Nachlass | Schwert: Geschliffene Klinge, Ausgeglichenes Schweretgefäß, Unablässige Treffer, En Garde
+dimwishlist:item=3366545721&perks=2827049491,52780822,1749209109,1685431615
 
 //Typhon GW5 | Granatwerfer: Smart-Driftsteuerung, Spitzgranaten, Impulsverstärker, Adrenalin-Junkie
 dimwishlist:item=3568377122&perks=3798852852,3301904089,951095735,11612903
