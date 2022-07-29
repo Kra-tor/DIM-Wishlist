@@ -1,5 +1,5 @@
 title:Destiny Item Managaer Wishlist
-description:Created by Krator. Number of Rolls: 42
+description:Created by Krator. Number of Rolls: 53
 
 //Kontrolle: Izanagis Bürde | Sniper: Exo
 dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467#notes:Geht eh nix anderes :)
@@ -30,6 +30,9 @@ dimwishlist:item=-4248569242#notes:Es kann nur eine geben!
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391#notes:GodRoll! 🤩🤩🤩
 dimwishlist:item=-2990047042#notes:Es kann nur eine geben!
 
+//Etwas Neues | Revolver: 
+dimwishlist:item=1856262127
+
 //Eyasluna | Revolver: Ruhige Hand EV, Panzerbrechende Geschosse, Schnelltreffer, Grabstein
 dimwishlist:item=235827225&perks=1926090095,1968497646,247725512,124408337
 
@@ -59,6 +62,9 @@ dimwishlist:item=3745990145&perks=893526895,106909392,957782887,3038247973
 //Lunulata-4B | Bogen: Natürliche Sehne, Gerades Gefieder, Ruihige Hände, Adrenalin-Junkie
 dimwishlist:item=2513965917&perks=1784898267,3827198035,509074078,11612903
 
+//Neue Bestimmung | Impulsgewehr: Pfeilspitzbremse, Prallgeschosse, Aufheizen, Desperado
+dimwishlist:item=1780464822&perks=839105230,1885400500,1570042021,3047969693
+
 //Perses-D | Scout
 	//Kleinkalieber, Taktisches Magazin, Schnelltreffer, Explosivladung
 dimwishlist:item=1019000888&perks=1482024992,106909392,247725512,3038247973#notes:Roll 1
@@ -68,8 +74,13 @@ dimwishlist:item=1019000888&perks=1482024992,106909392,3700496672,3038247973#not
 //Praedyths Rache | Sniper: Pfeilspitzbremse, Verbesserte Geschosse, Osmose, Glühwürmchen
 dimwishlist:item=3653573172&perks=839105230,3142289711,1774574192,3824105627
 
+//Schleichendes Grauen | Granatwerfer: Smart-Driftsteuerung, Spitzgranaten, Ambitionierter Assassine, Demolierer
+dimwishlist:item=2026087437&perks=3798852852,3301904089,2010801679,3523296417
+
 //Ödländer-M5 | Shotgun: Laufummantelung, Angriffsmagazin, Auskommen, Röhrenlauf
 dimwishlist:item=1679868061&perks=1300023272,791862061,1820235745,2360754333
+
+
 
 ///////////
 //Energie//
@@ -83,17 +94,26 @@ dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,1015611457#not
 	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Demolierer, BX-Runden
 dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,454085387#notes:Roll 2
 
+//Eigengewicht | Shotgun: Laufummantelung, Taktisches Magazin, Perpetuum Mobile, Haudegen
+dimwishlist:item=3738678140&perks=1300023272,106909392,1428297954,4082225868
+
 //Feierabend | Pistole: Kleinkaliber, Weitmündiger Magazinschacht, Gefahr erkannt - Gefahr gebannt, Harmonie
 dimwishlist:item=378498222&perks=1482024992,3230963543,4071163871,438098033
 
 //Fuge-55 | Sniper: Kannelierter Lauf, Taktisches Magazin, Selbstlader-Halter, Fokussierte Raserei
 dimwishlist:item=2233545123&perks=1840239774,106909392,3300816228,2896038713
 
+//Gallu RR3 | Sniper: Kannelierter Lauf, Taktisches Magazin, Überfluss, Fokussierte Raserei
+dimwishlist:item=6175011623&perks=1840239774,106909392,3643424744,2896038713
+
 //Kantate-57 | Revolver
 	//Kannelierter Lauf, Verbesserte Geschosse, Schnelltreffer, Zeit-Ladung
 dimwishlist:item=372697604&perks=1840239774,3142289711,247725512,1954620775#notes:Roll 1
 	//Kleinkalieber, Taktisches Magazin, Schnelltreffer, Zeit-Ladung
 dimwishlist:item=372697604&perks=1482024992,106909392,247725512,1954620775#notes:Roll 2
+
+//Leeres Gefäß | Granatwerfer: Schnelle Schüsse, Spitzgranaten, Ambitionierter Assassine, Störfaktor
+dimwishlist:item=4255586669&perks=3525010810,3301904089,2010801679,1683379515
 
 //Magenknurren | Automatikgewehr: Kannelierter Lauf, Taktisches Magazin, Auskommen, Toben
 dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926#notes:GodRoll! 🤩🤩🤩
@@ -105,14 +125,25 @@ dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,1683379515
 //Snorri FG5 | Fusionsgewehr: Pfeilspitzbremse, Verbesserte Batterie, Stats für alle, Erfolgreiches Warmlaufen
 dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,2652708987
 
+//Treuhand | Scout
+	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Wiederaufbau, Durchschlagende Reserven
+dimwishlist:item=1392919471&perks=839105230,3230963543,1523832109,2213355989#notes:Roll 1
+	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Überschuss, Urquell
+dimwishlist:item=1392919471&perks=839105230,3230963543,3436462433,3592538738#notes:Roll 2
+
 //Rotrücken-5SI | Pistole: Kannelierter Lauf, Verbesserte Geschosse, Perpetuum Mobile, Einer für alle
 dimwishlist:item=1687353095&perks=1840239774,3142289711,1428297954,4049631843
 
 //Trichternetz | Maschinenpistole: Kleinkaliber, Taktisches Magazin, Auskommen, Raserei
 dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692
 
+//Unverzeihlich | Maschinenpistole: Kleinkalieber, Großkalibergeschosse, Tunnelblick, Goldener Dreispitz
+dimwishlist:item=3000847393&perks=1482024992,1561002382,2946784966,2610012052
+
 //Xenoclast IV | Shotgun: Laufummantelung, Angriffsmagazin, Grabräuber, Demolierer
 dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,3523296417
+
+
 
 /////////
 //Power//
@@ -126,8 +157,14 @@ dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926
 //Halbwahrheiten | Schwert: Temperierte Klinge, Swertgefäß eines Schwertmeisters, Unablässige Treffer, Kühne Klinge
 dimwishlist:item=3257091166&perks=938542991,269888150,1749209109,2077819806
 
+//Heze-Rache | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Clusterbombe
+dimwishlist:item=4050645223&perks=3798852852,3796465595,3300816228,1275731761
+
 //Nachlass | Schwert: Geschliffene Klinge, Ausgeglichenes Schweretgefäß, Unablässige Treffer, En Garde
 dimwishlist:item=3366545721&perks=2827049491,52780822,1749209109,1685431615
+
+//Publikumsliebling | Granatwerfer: 
+dimwishlist:item=3565520715&perks=3525010810,3301904089,2010801679,2396489472
 
 //Typhon GW5 | Granatwerfer: Smart-Driftsteuerung, Spitzgranaten, Impulsverstärker, Adrenalin-Junkie
 dimwishlist:item=3568377122&perks=3798852852,3301904089,951095735,11612903
