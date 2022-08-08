@@ -169,8 +169,8 @@ dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,3523296417
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
 
-//Der Hitzkopf (Meister) | Raketenwerfer: 
-dimwishlist:item=1866778462&perks=1478423395,1546637391,3523296417,1996142143#notes:Test#1
+//Der Hitzkopf (Meister) | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Vorpalwaffe
+dimwishlist:item=1866778462&perks=3798852852,3796465595,3300816228,1546637391
 
 //Gedenken | Maschinengewehr: Kelinkalieber, Taktisches Magazin, Wiederaufbau, Toben
 dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926
