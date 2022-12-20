@@ -1,5 +1,8 @@
 title:Destiny Item Managaer Wishlist
-description:Created by Krator. Number of Rolls: 61
+description:Created by Krator. Number of Rolls: 50
+
+//Copy Pasta für die DIM Suchleiste mit allen Rolls die hier drin sind (Bitte ohne Schrägstriche!):
+//(-is:deepsight -is:crafted is:craftable) or name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger
 
 //Kontrolle: Izanagis Bürde | Sniper: Exo
 dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467#notes:Geht eh nix anderes :)
@@ -10,19 +13,8 @@ dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467#no
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
 
-//Entschuldige den Staub | Granatwerfer: Schnelle Schüsse, Spitzgranaten, Selbstlader-Halter, Vorpalwaffe
-dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
-
 //Enyo-D | Maschinenpistole: Kannelierter Lauf, Taktisches Magazin, Fressrausch, Multikill-Clip
 dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,2458213969
-
-//Erbe | Shotgun: Pfeilspitzbremse, Angriffsmagazin, Wiederaufbau, Rekombination
-dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294#notes:GodRoll! 🤩🤩🤩
-dimwishlist:item=-4248569242#notes:Es kann nur eine geben!
-
-//Erbfolge | Sniper: Kennelierter Lauf, Taktisches Magazin, Wiederaufbau, Vorpalwaffe
-dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391#notes:GodRoll! 🤩🤩🤩
-dimwishlist:item=-2990047042#notes:Es kann nur eine geben!
 
 //Etwas Neues | Revolver: Kannelierter Lauf, Leichtmagazin, Fressrausch, Dreschen
 dimwishlist:item=1856262127&perks=1840239774,679225683,2779035018,2726471870
@@ -80,22 +72,12 @@ dimwishlist:item=2026087437&perks=3798852852,3301904089,2010801679,3523296417
 //Springflut | Fusionsgewehr: Pfeilspitzbremse, Beschleunigte Spulen, Vielseitig, Goldener Dreispitz
 dimwishlist:item=2715240478&perks=839105230,689005463,744594675,2610012052
 
-//Ödländer-M5 | Shotgun: Laufummantelung, Angriffsmagazin, Auskommen, Röhrenlauf
-dimwishlist:item=1679868061&perks=1300023272,791862061,1820235745,2360754333
-
-
 
 ///////////
 //Energie//
 ///////////
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
-
-//BxR-55-Streiter | Impulsgewehr
-	//Pfeilspitzbremse, Prallgeschosse, Demolierer, Kill Clip
-dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,1015611457#notes:Roll 1
-	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Demolierer, BX-Runden
-dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,454085387#notes:Roll 2
 
 //Das dritte Axiom | Impulsgewehr: Pfeilspitzbremse, Leichtmagazin, Ursprung, Toben
 dimwishlist:item=4156253727&perks=839105230,679225683,3096702027,3425386926
@@ -113,7 +95,7 @@ dimwishlist:item=378498222&perks=1482024992,3230963543,4071163871,438098033
 dimwishlist:item=2233545123&perks=1840239774,106909392,3300816228,2896038713
 
 //Gallu RR3 | Sniper: Kannelierter Lauf, Taktisches Magazin, Überfluss, Fokussierte Raserei
-dimwishlist:item=6175011623&perks=1840239774,106909392,3643424744,2896038713
+dimwishlist:item=617501162&perks=1840239774,106909392,3643424744,2896038713
 
 //Kantate-57 | Revolver
 	//Kannelierter Lauf, Verbesserte Geschosse, Schnelltreffer, Zeit-Ladung
@@ -149,12 +131,6 @@ dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,2652708987
 //Stakkato-46 | Scout: Pfeilspitzbremse, Taktisches Magazin, Beuteschuss, Weißglühend
 dimwishlist:item=4019668921&perks=839105230,106909392,3700496672,4293542123
 
-//Treuhand | Scout
-	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Wiederaufbau, Durchschlagende Reserven
-dimwishlist:item=1392919471&perks=839105230,3230963543,1523832109,2213355989#notes:Roll 1
-	//Pfeilspitzbremse, Weitmündiger Magazinschacht, Überschuss, Urquell
-dimwishlist:item=1392919471&perks=839105230,3230963543,3436462433,3592538738#notes:Roll 2
-
 //Trichternetz | Maschinenpistole: Kleinkaliber, Taktisches Magazin, Auskommen, Raserei
 dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692
 
@@ -178,17 +154,8 @@ dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,3523296417
 //Der Hitzkopf (Meister) | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Vorpalwaffe
 dimwishlist:item=1866778462&perks=3798852852,3796465595,3300816228,1546637391
 
-//Gedenken | Maschinengewehr: Kelinkalieber, Taktisches Magazin, Wiederaufbau, Toben
-dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926
-
-//Halbwahrheiten | Schwert: Temperierte Klinge, Swertgefäß eines Schwertmeisters, Unablässige Treffer, Kühne Klinge
-dimwishlist:item=3257091166&perks=938542991,269888150,1749209109,2077819806
-
 //Heze-Rache | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Clusterbombe
 dimwishlist:item=4050645223&perks=3798852852,3796465595,3300816228,1275731761
-
-//Nachlass | Schwert: Geschliffene Klinge, Ausgeglichenes Schweretgefäß, Unablässige Treffer, En Garde
-dimwishlist:item=3366545721&perks=2827049491,52780822,1749209109,1685431615
 
 //Publikumsliebling | Granatwerfer: Schnelle Schüsse, Spitzgranaten, Ambitionierter Assassine, Kettenreaktion
 dimwishlist:item=3565520715&perks=3525010810,3301904089,2010801679,2396489472
