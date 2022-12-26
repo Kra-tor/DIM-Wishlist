@@ -1,8 +1,10 @@
 title:Destiny Item Managaer Wishlist
-description:Created by Krator. Number of Rolls: 50
+description:Created by Krator. Number of Rolls: 53
 
-//Copy Pasta für die DIM Suchleiste mit allen Rolls die hier drin sind (Bitte ohne Schrägstriche!):
-//(-is:deepsight -is:crafted is:craftable) or name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger
+//Copy Pasta für die DIM Suchleiste mit allen Rolls die hier drin sind
+	//(-is:deepsight -is:crafted is:craftable) or name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger or name:"reine poesie" or name:"königlicher einzug" or name:korrekturmaßnahme
+//Bei Updates von Bungie hier um alle neuen Craftables anzuzeigen
+	//is:craftable and (name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger or name:"reine poesie" or name:"königlicher einzug" or name:korrekturmaßnahme or name:ragnhild-d or name:"explosive natur")
 
 //Kontrolle: Izanagis Bürde | Sniper: Exo
 dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467#notes:Geht eh nix anderes :)
@@ -65,6 +67,9 @@ dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,4104185692
 
 //Praedyths Rache | Sniper: Pfeilspitzbremse, Verbesserte Geschosse, Osmose, Glühwürmchen
 dimwishlist:item=3653573172&perks=839105230,3142289711,1774574192,3824105627
+
+//Reine Poesie | Handfeuerwaffe: Kannelierter Lauf, Weitmündiger Magazinschacht, Perpetuum Mobile, Haudegen
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,4082225868
 
 //Schleichendes Grauen | Granatwerfer: Smart-Driftsteuerung, Spitzgranaten, Ambitionierter Assassine, Demolierer
 dimwishlist:item=2026087437&perks=3798852852,3301904089,2010801679,3523296417
@@ -144,7 +149,6 @@ dimwishlist:item=2591111628&perks=4090651448,791862061,3436462433,1546637391
 dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,3523296417
 
 
-
 /////////
 //Power//
 /////////
@@ -156,6 +160,12 @@ dimwishlist:item=1866778462&perks=3798852852,3796465595,3300816228,1546637391
 
 //Heze-Rache | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Clusterbombe
 dimwishlist:item=4050645223&perks=3798852852,3796465595,3300816228,1275731761
+
+//Königlicher Einzug | Raketenwerfer: Schnelle Schüsse, Hochgeschwindigkeitsgeschosse, Impulsverstärker, Kettenreaktion
+dimwishlist:item=2448907086&perks=3525010810,2822142346,951095735,2396489472
+
+//Korrekturmaßnahme | Maschinengewehr: Pfeilspitzbremse, Taktisches Magazin, Auskommen, Glühwürmchen
+dimwishlist:item=471518543&perks=839105230,106909392,1820235745,3824105627
 
 //Publikumsliebling | Granatwerfer: Schnelle Schüsse, Spitzgranaten, Ambitionierter Assassine, Kettenreaktion
 dimwishlist:item=3565520715&perks=3525010810,3301904089,2010801679,2396489472
