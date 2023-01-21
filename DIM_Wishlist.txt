@@ -89,7 +89,7 @@ dimwishlist:item=4156253727&perks=839105230,679225683,3096702027,3425386926
 
 //Das Streben des Gedankendrehers (Meister) | Schrotflinte: Kleinkaliber, Angriffsmagazin, Gefahr erkannt - Gefahr gebannt, Haudegen
 //dimwishlist:item=912150785&perks=1482024992,791862061,4071163871,4082225868
-dimwishlist:item=912150785&perks=791862061,1556840489,4082225868,1482024992,1300023272
+dimwishlist:item=912150785&perks=791862061,1556840489,4082225868,1482024992,4090651448
 
 
 //Des Horrors Mindeste (Meister) | Impulsgewehr: Pfeilspitzbremse, Taktisches Magazin, Aufheizen, Raserei
