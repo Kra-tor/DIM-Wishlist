@@ -87,6 +87,11 @@ dimwishlist:item=2715240478&perks=839105230,689005463,744594675,2610012052
 //Das dritte Axiom | Impulsgewehr: Pfeilspitzbremse, Leichtmagazin, Ursprung, Toben
 dimwishlist:item=4156253727&perks=839105230,679225683,3096702027,3425386926
 
+//Das Streben des Gedankendrehers (Meister) | Schrotflinte: Kleinkaliber, Angriffsmagazin, Gefahr erkannt - Gefahr gebannt, Haudegen
+//dimwishlist:item=912150785&perks=1482024992,791862061,4071163871,4082225868
+dimwishlist:item=912150785&perks=791862061,1556840489,4082225868,1482024992,1300023272
+
+
 //Des Horrors Mindeste (Meister) | Impulsgewehr: Pfeilspitzbremse, Taktisches Magazin, Aufheizen, Raserei
 dimwishlist:item=1924276978&perks=839105230,106909392,1570042021,4104185692
 
@@ -157,6 +162,8 @@ dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,3523296417
 
 //Der Hitzkopf (Meister) | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Vorpalwaffe
 dimwishlist:item=1866778462&perks=3798852852,3796465595,3300816228,1546637391
+
+
 
 //Heze-Rache | Raketenwerfer: Smart-Driftsteuerung, Einschlaggehäuse, Selbstlader-Halter, Clusterbombe
 dimwishlist:item=4050645223&perks=3798852852,3796465595,3300816228,1275731761
