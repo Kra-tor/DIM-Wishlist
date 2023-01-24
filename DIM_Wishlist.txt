@@ -1,5 +1,5 @@
 title:Destiny Item Managaer Wishlist
-description:Created by Krator. Number of Rolls: 54
+description:Created by Krator. Number of Rolls: 55
 
 //Copy Pasta für die DIM Suchleiste mit allen Rolls die hier drin sind
 	//(-is:deepsight -is:crafted is:craftable) or name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger or name:"reine poesie" or name:"königlicher einzug" or name:korrekturmaßnahme or name:"das streben des gedankendrehers (meister)"
@@ -139,8 +139,11 @@ dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,2652708987
 //Stakkato-46 | Scout: Pfeilspitzbremse, Taktisches Magazin, Beuteschuss, Weißglühend
 dimwishlist:item=4019668921&perks=839105230,106909392,3700496672,4293542123
 
-//Trichternetz | Maschinenpistole: Kleinkaliber, Taktisches Magazin, Auskommen, Raserei
+//Trichternetz | Maschinenpistole
+	//Kleinkaliber, Taktisches Magazin, Auskommen, Raserei
 dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692
+	//Kannelierter Lauf,Taktisches Magazin, Auskommen, Raserei
+dimwishlist:item=3341893443&perks=1840239774,106909392,1820235745,4104185692#notes:Power - Godroll
 
 //Unverzeihlich | Maschinenpistole: Kleinkalieber, Großkalibergeschosse, Tunnelblick, Goldener Dreispitz
 dimwishlist:item=3000847393&perks=1482024992,1561002382,2946784966,2610012052
