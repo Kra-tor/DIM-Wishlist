@@ -1,8 +1,9 @@
 title:Destiny Item Managaer Wishlist
-description:Created by Krator. Number of Rolls: 55
+description:Created by Krator. Number of Rolls: 67
 
 //Copy Pasta für die DIM Suchleiste mit allen Rolls die hier drin sind
-	//(-is:deepsight -is:crafted is:craftable) or name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger or name:"reine poesie" or name:"königlicher einzug" or name:korrekturmaßnahme or name:"das streben des gedankendrehers (meister)"
+	//(-is:deepsight -is:crafted is:craftable) or name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger or name:"reine poesie" or name:"königlicher einzug" or name:korrekturmaßnahme or name:"das streben des gedankendrehers (meister)" or name:aurvandill-fg6 or name:boudica-c or name:jararaca-3sr or name:kältefront or name:lodbrok-c or name:pizzicato-22 or name:"siebter seraph-karabiner" or name:"siebter seraph-offiziersrevolver" or name:"verlängertes engagement" or name:"wacht der schwelle" or name:albruna-d or name:dämmerbruch-schwur or name:"geborgte zeit" or name:"matador 64" or name:"schuldig befunden" or name:"vision der konfluenz"
+	
 //Bei Updates von Bungie hier um alle neuen Craftables anzuzeigen
 	//is:craftable and (name:enyo-d or name:"etwas neues" or name:eyasluna or name:"falsche versprechen" or name:fortissimo-11 or name:herodes-c or name:krait or name:"langer schatten" or name:lunulata-4b or name:"neue bestimmung" or name:perses-d or name:"pflichtgebunden (meister)" or name:"praedyths rache" or name:"schleichendes grauen" or name:springflut or name:"das dritte axiom" or name:"des horrors mindeste (meister)" or name:eigengewicht or name:feierabend or name:fuge-55 or name:"gallu rr3" or name:kantate-57 or name:"leeres gefäß" or name:magenknurren or name:"ogma ig6" or name:"plug one.1 (meister)" or name:rotrücken-5si or name:"schrilles pfeifen" or name:"snorri fg5" or name:stakkato-46 or name:trichternetz or name:unverzeihlich or name:windrose or name:"xenoclast iv" or name:"der hitzkopf (meister)" or name:heze-rache or name:publikumsliebling or name:"typhon gw5" or name:sturmjäger or name:"reine poesie" or name:"königlicher einzug" or name:korrekturmaßnahme or name:ragnhild-d or name:"explosive natur") or name:"das streben des gedankendrehers (meister)"
 
@@ -14,6 +15,37 @@ dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467#no
 ///////////
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
+
+//Aurvandill-FG6 | Fusionsgewehr: Pfeilspitzbremse, Projektionszünder, Stats für alle, Einer für alle
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579,2839173408#notes:Light.gg Curated Roll
+
+//Boudica-C | Pistole: Korkenzieher-Drall, Prallgeschosse, Hüftfeuergriff, Einer für alle
+dimwishlist:item=1916287826&perks=839105230,2420895100,691659142,4082225868,1607056502#notes:Light.gg Curated Roll
+
+//Jararaca-3SR | Scout: Pfeilspitzbremse, Vergrößertes Magazin, Schnelltreffer, Kill Clip
+dimwishlist:item=1851521408&perks=839105230,2420895100,247725512,1015611457,3988215619#notes:Light.gg Curated Roll
+
+//Kältefront | Maschinenpistole: Pfeilspitzbremse, Verbesserte Geschosse, Auskommen, Raserei
+dimwishlist:item=2814093983&perks=839105230,3142289711,1820235745,4104185692,4264904777#notes:Light.gg Curated Roll
+
+//Lodbrok-C | Automatikgewehr: Pfeilspitzbremse, Prallgeschosse, Demolierer, Ziel anvisieren
+dimwishlist:item=2328531378&perks=839105230,1885400500,3523296417,365154968,1607056502#notes:Light.gg Curated Roll
+
+//Pizzicato-22 | Maschinenpistole: Pfeilspitzbremse, Prallgeschosse, Perpetuum Mobile, Messsucher
+dimwishlist:item=4100775158&perks=839105230,1885400500,1428297954,2846385770,4008116374#notes:Light.gg Curated Roll
+
+//Siebter Seraph Karabiner | Automatikgewehr: Pfeilspitzbremse, Seraphenkugeln, Wiederaufbau, Ziel anvisieren
+dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,365154968,566815328#notes:Light.gg Curated Roll
+
+//Siebter Seraph Offiziersrevolver | Handfeuerwaffe: Pfeilspitzbremse, Seraphenkugeln, Wiederaufbau, Vorpalwaffe
+dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,1546637391,566815328#notes:Light.gg Curated Roll
+
+//Verlängertes Engagement | Maschinenpistole: Pfeilspitzbremse, Prallgeschosse, Auskommen, Ziel anvisieren
+dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,365154968,744217850#notes:Light.gg Curated Roll
+
+//Wacht der Schwelle | Pistole: Korkenzieher-Drall, Prallgeschosse, Perpetuum Mobile, Desperado
+dimwishlist:item=3138208275&perks=4090651448,1885400500,1428297954,3047969693,2437618208#notes:Light.gg Curated Roll
+
 
 //Enyo-D | Maschinenpistole: Kannelierter Lauf, Taktisches Magazin, Fressrausch, Multikill-Clip
 dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,2458213969
@@ -83,6 +115,26 @@ dimwishlist:item=2715240478&perks=839105230,689005463,744594675,2610012052
 ///////////
 
 //Copy Pasta: dimwishlist:item= &perks= #notes:GodRoll! 🤩🤩🤩
+
+//Albruna-D | Sniper: Pfeilspitzbremse, Verbesserte Geschosse, Explosivladung, Schützenlinie
+dimwishlist:item=676270382&perks=839105230,3142289711,3038247973,1771339417,515704826#notes:Light.gg Curated Roll
+
+//Dämmerbruch-Schwur | Sniper: Pfeilspitzbremse, Verbesserte Geschosse, Erster Schuss, Schnappschussvisier
+dimwishlist:item=3297863558&perks=839105230,3142289711,47981717,957782887#notes:Light.gg Curated Roll
+
+//Geborgte Zeit | Maschinenpistole: Pfeilspitzbremse, Prallgeschosse, Fressrausch, Toben
+dimwishlist:item=875848769&perks=839105230,1885400500,2779035018,3425386926,515704826#notes:Light.gg Curated Roll
+
+//Matador 64 | Shotgun: Kleinkaliber, Verbesserte Geschosse, Gefahr erkannt Gefahr gebannt, Erster Schuss
+dimwishlist:item=2563012876&perks=1482024992,3142289711,4071163871,47981717#notes:Light.gg Curated Roll
+
+//Schuldig befunden | Shotgun: Gezogener Lauf, Verbesserte Geschosse, Im Rutschen, Erster Schuss
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,47981717#notes:Light.gg Curated Roll
+
+//Vision der Konfluenz | Scout: Pfeilspitzbremse, Prallgeschosse, Rückspulgeschosse, Glühwürmchen
+dimwishlist:item=3186018373&perks=839105230,1885400500,3418782618,3824105627#notes:Light.gg Curated Roll
+
+
 
 //Das dritte Axiom | Impulsgewehr: Pfeilspitzbremse, Leichtmagazin, Ursprung, Toben
 dimwishlist:item=4156253727&perks=839105230,679225683,3096702027,3425386926
